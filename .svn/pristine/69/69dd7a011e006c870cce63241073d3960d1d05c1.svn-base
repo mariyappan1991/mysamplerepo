@@ -1,0 +1,23 @@
+0000000000000000000000000000000000000000 703f281ddbf0773d0ebf3bacee91cf21e5970071 mariyappan1991 <mariyaps1991@gmail.com> 1490932659 +0530	commit (initial): test.txt is just added
+703f281ddbf0773d0ebf3bacee91cf21e5970071 7f4228b9154e26871c636de316d9f30c40a02aa2 mariyappan1991 <mariyaps1991@gmail.com> 1490933541 +0530	commit: test file content is added
+7f4228b9154e26871c636de316d9f30c40a02aa2 cce50353af170e93159467c99b985fd56712fa11 mariyappan1991 <mariyaps1991@gmail.com> 1490933886 +0530	commit: second line is added in test file
+cce50353af170e93159467c99b985fd56712fa11 58ba3096be5710aed76c314fa5eeb4b0a13e6181 mariyappan1991 <mariyaps1991@gmail.com> 1490934420 +0530	commit: printvalue.py file is added
+58ba3096be5710aed76c314fa5eeb4b0a13e6181 d68f1cad94bf97c9fa07362335a41a0dd0e6f76c mariyappan1991 <mariyaps1991@gmail.com> 1491015180 +0530	commit: databasetest.py file is added
+d68f1cad94bf97c9fa07362335a41a0dd0e6f76c aa78ac5d849cba25febd5d13ac58a57330edc4fb mariyappan1991 <mariyaps1991@gmail.com> 1491015537 +0530	commit: print statement is corrected
+aa78ac5d849cba25febd5d13ac58a57330edc4fb 1c60974b87e0557fd59cb879c7613bee2cd118a8 mariyappan1991 <mariyaps1991@gmail.com> 1491016158 +0530	commit: db object is changed
+1c60974b87e0557fd59cb879c7613bee2cd118a8 fec0e60727c66d4776a9e8cb72890b103f24b076 mariyappan1991 <mariyaps1991@gmail.com> 1491043209 +0530	commit: changed PyMySQL to pymysql
+fec0e60727c66d4776a9e8cb72890b103f24b076 2c5d9afc06f32b562b7b4f9828cf6d61dc746eb5 mariyappan1991 <mariyaps1991@gmail.com> 1491043592 +0530	commit: file odeifed
+2c5d9afc06f32b562b7b4f9828cf6d61dc746eb5 eccadc0d2a0e12a7984e0c42b089e06856547217 mariyappan1991 <mariyaps1991@gmail.com> 1491043710 +0530	commit: added
+eccadc0d2a0e12a7984e0c42b089e06856547217 088312c14215e807444bd47acd6bf62b48b2160e mariyappan1991 <mariyaps1991@gmail.com> 1491045125 +0530	commit: added
+088312c14215e807444bd47acd6bf62b48b2160e ed149cff72e426df1ca239a05905eaa9eb3d818e mariyappan1991 <mariyaps1991@gmail.com> 1491045702 +0530	commit: comparision file added to repo
+ed149cff72e426df1ca239a05905eaa9eb3d818e a43bb9ca7f0a8bf3fe8503f3641817fa44958cd6 mariyappan1991 <mariyaps1991@gmail.com> 1491046126 +0530	commit: added
+a43bb9ca7f0a8bf3fe8503f3641817fa44958cd6 4aba5dcf8df8cc12cc4dbfe04b0a47ea30a76980 mariyappan1991 <mariyaps1991@gmail.com> 1491046217 +0530	commit: added
+4aba5dcf8df8cc12cc4dbfe04b0a47ea30a76980 488a5f13c16b9a2167aa9e3c9472e52010158b3d mariyappan1991 <mariyaps1991@gmail.com> 1491046460 +0530	commit: added
+488a5f13c16b9a2167aa9e3c9472e52010158b3d 57ca6a7ab0901175bd147ce4310b09d00f0b7274 mariyappan1991 <mariyaps1991@gmail.com> 1491046713 +0530	commit: added
+57ca6a7ab0901175bd147ce4310b09d00f0b7274 f0deb9ce2c9209f6d3eeef5a7b8acb4c2caae224 mariyappan1991 <mariyaps1991@gmail.com> 1491046839 +0530	commit: added
+f0deb9ce2c9209f6d3eeef5a7b8acb4c2caae224 2c5a1ab7d356e71b63d1b80372818ff4dfe6fc78 mariyappan1991 <mariyaps1991@gmail.com> 1491046912 +0530	commit: added
+2c5a1ab7d356e71b63d1b80372818ff4dfe6fc78 668dac7bfa205aea0face83110de8edc47d6752f mariyappan1991 <mariyaps1991@gmail.com> 1491049387 +0530	commit: added
+668dac7bfa205aea0face83110de8edc47d6752f f411ac6f47754bc22de30cad29e22ee3f043872f mariyappan1991 <mariyaps1991@gmail.com> 1491058262 +0530	commit: data file changed
+f411ac6f47754bc22de30cad29e22ee3f043872f 47b46192a59b3c891e5ff710932f6f6950f0dd22 mariyappan1991 <mariyaps1991@gmail.com> 1491059466 +0530	commit: data file changed
+47b46192a59b3c891e5ff710932f6f6950f0dd22 3f3776b7d96fd489012456cd7367dc0ffd1640ff mariyappan1991 <mariyaps1991@gmail.com> 1491061630 +0530	commit: data file changed
+3f3776b7d96fd489012456cd7367dc0ffd1640ff 30687a8f1f935d52783c8c7104f635f3a5fc31e8 mariyappan1991 <mariyaps1991@gmail.com> 1491061866 +0530	commit: data file changed
