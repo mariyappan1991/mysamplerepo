@@ -16,7 +16,8 @@ all_data = cursor.fetchall()
 
 print ("Application Form : ", all_data)
 
-records_count = cursor.execute("SELECT count(*) FROM job_applicationform")
+cursor.execute("SELECT count(*) FROM job_applicationform")
+records_count = cursor.fetch()
 
 
 # disconnect from server
@@ -36,5 +37,5 @@ print("No of records in DB: ", records_count)
 
 print("Record column length: ", len(all_data[0]))
 
-print("No of lines in the file: ", len(fo))
-print("file line arguments length: ", len(fo[0]))
+print("No of lines in the file: ", row)
+print("file line arguments length: ", len(line))
