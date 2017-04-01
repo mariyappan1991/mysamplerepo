@@ -44,7 +44,7 @@ with open('naukri_job_applicationform_data.dat','r') as fo:
 		
 		for i in range(0,len(db_data)-1):
 			# check
-			if tab_splitted_line[i] != str(db_data[i]):
+			if str(tab_splitted_line[i]) != str(db_data[i]):
 				print("\n", tab_splitted_line, "is not matched with ", str(db_data), "\n")
 			
 		
