@@ -27,7 +27,7 @@ cursor.execute("SELECT * FROM job_applicationform")
 
 
 # Open dat file and read line by line
-with open('naukri_job_applicationform.dat','r') as fo:
+with open('naukri_job_applicationform_data.dat','r') as fo:
 	line_count = 0
 	
 	for line in fo:
