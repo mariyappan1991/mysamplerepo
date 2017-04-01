@@ -14,7 +14,7 @@ cursor.execute("SELECT * FROM job_applicationform")
 # Fetch a single row using fetchone() method.
 data = cursor.fetchone()
 
-print "Application Form : %s " % data
+print ("Application Form : %s " % data)
 
 # disconnect from server
 db.close()
