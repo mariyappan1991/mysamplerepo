@@ -17,7 +17,7 @@ all_data = cursor.fetchall()
 print ("Application Form : ", all_data)
 
 cursor.execute("SELECT count(*) FROM job_applicationform")
-records_count = cursor.fetch()
+records_count = cursor.fetchone()
 
 
 # disconnect from server
