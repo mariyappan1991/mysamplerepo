@@ -31,7 +31,7 @@ with open('naukri_job_applicationform.dat','r') as fo:
 		row += 1
 		print("Row ", row, ": ", line, "\n")
 
-print("No of records in DB: ", records_count(0))
+print("No of records in DB: ", records_count[0])
 print("DB Record column length: ", len(all_data[0]))
 
 print("No of lines in the file: ", row)
