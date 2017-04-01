@@ -12,9 +12,12 @@ cursor = db.cursor()
 cursor.execute("SELECT * FROM job_applicationform")
 
 # Fetch a single row using fetchone() method.
-data = cursor.fetchone()
+one_data = cursor.fetchone()
 
-print ("Application Form : ", data)
+all_data = cursor.fetchall()
+
+print ("Application Form: Data 1 : ", one_data)
+print ("Application Form : ", all_data)
 
 # disconnect from server
 db.close()
