@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 
-import PyMySQL
+import pymysql
 
 # Open database connection
-db = PyMySQL.connect("localhost","naukri","root","root" )
+db = pymysql.connect("localhost","naukri","root","root" )
 
 # prepare a cursor object using cursor() method
 cursor = db.cursor()
